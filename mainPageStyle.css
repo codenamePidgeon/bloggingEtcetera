@@ -18,8 +18,10 @@
 
 #siteMap{
  position:fixed;
- width:20%;
+ width:18%;
  left:0;
+ padding-left:2%;
+ padding-right:2%;
  top:120px;
  bottom:0px;
  border-right-style:solid;
