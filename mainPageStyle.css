@@ -11,14 +11,15 @@ header {
  border-color: #7d7d7d;
 }
 
-.game{
+.feature{
  
 }
 
-.blog{
- 
-}
-
-.article{
- 
+#siteMap{
+ position:fixed;
+ width:20%;
+ left:0;
+ border-style:solid;
+ border-width:3px;
+ border-color:#19364d;
 }
