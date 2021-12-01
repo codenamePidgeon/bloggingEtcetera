@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <body>
+      <p>Site Map</p>
+      <ul>
+        <li> <a href ="index.html">Main Page</a></li>
+        <li> Blog Posts</li>
+        <li> Games</li>
+        <li> Misc
+        <ul>
+          <li> <a href = "projectIdeas.html">Project List</a></li>
+         </ul>
+        </li>
+      </ul>
+  </body>
+</html>
