@@ -25,6 +25,9 @@
  top:120px;
  bottom:0px;
  border-right-style:solid;
+  border-bottom-style:none;
+  border-left-style:none;
+  border-top-style:none;
  border-width:3px;
  border-color:#7d7d7d;
 }
