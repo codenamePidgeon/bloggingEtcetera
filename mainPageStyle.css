@@ -16,6 +16,10 @@
  
 }
 
+body {
+ background-color:#000000;
+}
+
 .siteMap{
  position:fixed;
  width:18%;
