@@ -18,8 +18,8 @@ header {
 
 .pageContent {
  position:static;
-left:20%;
-top:123px;
+margin-left:20%;
+margin-top:123px;
  padding-left:10px;
  padding-top:10px;
 }
