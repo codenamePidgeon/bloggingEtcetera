@@ -17,8 +17,10 @@ header {
 }
 
 .pageContent {
- margin-left:20%;
- margin-top:123px;
+left:20%;
+top:123px;
+ padding-left:10px;
+ padding-top:10px;
 }
 
 .siteMap{
