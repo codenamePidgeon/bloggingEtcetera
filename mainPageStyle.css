@@ -22,7 +22,7 @@ header {
 }
 
 .siteMap{
- position:absolute;
+ position:fixed;
  width:18%;
  left:0px;
  top:123px;
