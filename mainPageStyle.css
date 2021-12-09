@@ -22,8 +22,8 @@ body {
 .siteMap{
  position:absolute;
  width:18%;
- left:0;
- top:123px;
+ left:0px;
+ top:0px;
  padding-left:2%;
  padding-right:2%;
  height:10000px;
